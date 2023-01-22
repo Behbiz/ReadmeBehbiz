@@ -37,6 +37,8 @@
 -  **Fact :** Control is an illusion 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<h4>Contribution graph :</h4> 
+  
+ ![Snake animation](https://github.com/Yumi-Namie/Yumi-Namie/blob/output/github-contribution-grid-snake.svg)
 
 
