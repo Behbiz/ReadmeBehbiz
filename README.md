@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Behbiz&layout=compact&langs_count=16&theme=dracula&include_all_commits=truecount_private=true"/>
 </div>
 
-
+<img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="240" align='right'/>
 
  <div style="display: inline_block"><br>
   Technical resources:
@@ -38,8 +38,5 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
- 
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 
