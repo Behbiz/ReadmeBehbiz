@@ -2,7 +2,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### About me
-#### Full-Stack Developer :zap: | Student 
+#### Full-Stack Developer :zap: | Junior 
 ##### My main characteristics are versatility, originality, audacity and resilience. :fire: 
 - 📫 How to reach me: https://www.linkedin.com/in/isabel-santos-castro-/
 <div align="center">
