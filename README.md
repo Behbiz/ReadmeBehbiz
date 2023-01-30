@@ -27,6 +27,9 @@
   <img align="center" alt="Php" height="30" width="40" src="https://user-images.githubusercontent.com/104316263/211381448-a09ad170-a6bd-4168-bf97-674ad7507512.png">
   <img align="center" alt="mysql" height="30" width="40" src="https://user-images.githubusercontent.com/104316263/211383264-c948febc-d97b-4979-8a1c-e8fe066b5f7c.png">
   <img align="center" alt="github" height="30" width="40" src="https://user-images.githubusercontent.com/104316263/211384075-19b5ff1b-b99c-42c2-8829-4f68a193a762.png">
+  <img align="center" alt="laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" /> 
+   <img align="center" alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> 
+   <img align="center" alt="nodejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" /> 
 
 </div>
 
