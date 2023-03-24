@@ -33,7 +33,6 @@
 
 </div>
 
-##
   
 -  **Web Development :** Certificate of Professionalism issued by the Spanish government.
 -  **Hobbies :** gardening 🌱 and gaze at the stars  🔭
