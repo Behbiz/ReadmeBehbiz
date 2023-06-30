@@ -6,12 +6,12 @@
 ##### My main characteristics are versatility, originality, audacity and resilience. :fire: 
 - 📫 How to reach me: https://www.linkedin.com/in/isabel-santos-castro-/
 <div align="center">
+  <img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="240" align='right'/>
   <a href="https://github.com/Behbiz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Behbiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Behbiz&layout=compact&langs_count=16&theme=dracula&include_all_commits=truecount_private=true"/>
 </div>
 
-<img src="https://media.giphy.com/media/rqd9R3yaDy16a8kDC1/giphy.gif" width="240" align='right'/>
+
 
  <div style="display: inline_block"><br>
   Technical resources:
